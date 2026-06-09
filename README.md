@@ -2,3 +2,4 @@
 Repositorio de GitHub dedicado al 1er parcial de Electiva 2.
 
 Enlace a la página [trashy-fireman.surge.sh](trashy-fireman.surge.sh)
+(Copiar el enlace y pegar en el navegador por individual)
